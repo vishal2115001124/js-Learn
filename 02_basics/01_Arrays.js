@@ -18,3 +18,4 @@ arr.shift();
 const newarr = arr.join();
 console.log(typeof arr);
 console.log(typeof newarr);
+console.log(typeof arr1);
